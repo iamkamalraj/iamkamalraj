@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal Raj P</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/iamkamalraj/iamkamalraj/main/kamal_banner.jpg"> </div>
+
 - 🌱 I’m currently learning **Enterprise Java with Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamkamalraj](https://github.com/iamkamalraj)
