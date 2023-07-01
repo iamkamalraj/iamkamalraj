@@ -18,9 +18,9 @@ Passionate full-stack enthusiast, bridging the realms of front-end and back-end 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning "Enterprise Java with Spring Boot" 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I have a keen interest in UI/UX, Graphics design and have experience in creating visually appealing graphic design. [behance](https://behance/iamkamalraj/)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: kamalrajp.cse@gmail.com
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Know about my experiences: https://www.linkedin.com/in/iamkamalraj
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; In addition to my technical skills, I have a keen interest in UI/UX,  Graphics design [behance](https://behance/iamkamalraj/)
 
 </br>
 
