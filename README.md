@@ -7,9 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://www.linkedin.com/in/iamkamalraj/)
 
-I am a Final Year Student full-stack Developer. I love programming, Designing and traveling.
-
-Passionate full-stack enthusiast, bridging the realms of front-end and back-end with creativity and precision. Embracing the art of crafting seamless user experiences and robust functionality. Dedicated to expanding knowledge, solving challenges, and leaving a mark in the digital landscape.
+I'm a Final Year student who is Passionate full-stack enthusiast, bridging the realms of front-end and back-end with creativity and precision. Embracing the art of crafting seamless user experiences and robust functionality. Dedicated to expanding knowledge, solving challenges, and leaving a mark in the digital landscape. I love programming, Designing and traveling.
 
   
 
