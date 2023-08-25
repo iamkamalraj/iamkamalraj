@@ -9,17 +9,16 @@
 
 ### Glad to see you here! &nbsp; ![](https://www.linkedin.com/in/iamkamalraj/)
 
-I'm a Final Year student who is Passionate full-stack enthusiast, bridging the realms of front-end and back-end with creativity and precision. Embracing the art of crafting seamless user experiences and robust functionality. Dedicated to expanding knowledge, solving challenges, and leaving a mark in the digital landscape. I love programming, Designing and traveling.
+I'm a Final Year student who is passionate and aspiring Java developer with a love for creating efficient and robust applications. My journey into the world of programming began when I discovered my fascination for problem-solving and logical thinking. Since then, I've been on an exciting path of continuous learning and exploration in the realm of software development. I love programming, Designing and traveling.
 
   
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning "Enterprise Java with Spring Boot" 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: kamalrajp.cse@gmail.com
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Know about my experiences: https://www.linkedin.com/in/iamkamalraj
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Know about my experiences: https://www.linkedin.com/in/iamkamalraj
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; In addition to my technical skills, I have a keen interest in UI/UX,  Graphics design [behance](https://www.behance.net/iamkamalraj)
 
 </br>
@@ -32,7 +31,7 @@ I'm a Final Year student who is Passionate full-stack enthusiast, bridging the r
 <!--START_SECTION:waka-->
 
 ```txt
-Java   18 Hours         █████████████████████████   100.00 %
+Java   28 Hours         █████████████████████████   100 %
 ```
 
 <!--END_SECTION:waka-->
