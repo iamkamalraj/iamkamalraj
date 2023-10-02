@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kamalrajpoovannan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iam_kamalraj/)
 
-### Glad to see you here! &nbsp; ![]([https://linktr.ee/iamkamalraj](https://linktr.ee/iamkamalraj))
+### Glad to see you here! &nbsp; ![](https://linktr.ee/iamkamalraj)
 
 I'm a Final Year student who is passionate and aspiring Java developer with a love for creating efficient and robust applications. My journey into the world of programming began when I discovered my fascination for problem-solving and logical thinking. Since then, I've been on an exciting path of continuous learning and exploration in the realm of software development. I love programming, Designing and traveling.
 
