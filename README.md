@@ -41,5 +41,6 @@ Java   28 Hours         ██████████████████�
 
 📈 **My GitHub Stats:**
 
+![commit](https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=midnight-purple&hide_border=false)<br/>
 
 
