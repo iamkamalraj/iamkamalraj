@@ -44,9 +44,7 @@ I'm a Final Year student who is passionate and aspiring Java developer with a lo
 
 </details>
 
-
- ![Visitor Count](https://profile-counter.glitch.me/{iamkamalraj}/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/{iamkamalraj}/count.svg)
 
 <!--END_SECTION:waka-->
 
