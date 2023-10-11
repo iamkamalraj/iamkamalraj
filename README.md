@@ -17,7 +17,7 @@ I'm a Final Year student who is passionate and aspiring Java developer with a lo
 
 📈 **My GitHub Stats:**
 
-![commit](https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=iamkamalraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 </br>
 
@@ -32,17 +32,13 @@ I'm a Final Year student who is passionate and aspiring Java developer with a lo
 
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkamalraj" alt="iamkamalraj" /></a> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=iamkamalraj&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamkamalraj&show_icons=true&theme=gotham" alt="Kamal Raj | Stats" />
-
-</details>
+**Profile Views:**
+</br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{iamkamalraj}/count.svg)
 
