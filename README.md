@@ -17,7 +17,7 @@ I'm a Final Year student who is passionate and aspiring Java developer with a lo
 
 📈 **My GitHub Stats:**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=dark&hide_border=false)
+
 
 </br>
 
