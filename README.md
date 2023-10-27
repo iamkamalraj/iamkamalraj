@@ -11,7 +11,7 @@ Linktree - https://linktr.ee/iamkamalraj
 
 ### Glad to see you here! &nbsp; ![](https://linktr.ee/iamkamalraj)
 
-I'm a Final Year student who is passionate and aspiring Java developer with a love for creating efficient and robust applications. My journey into the world of programming began when I discovered my fascination for problem-solving and logical thinking. Since then, I've been on an exciting path of continuous learning and exploration in the realm of software development. I love programming, Designing and traveling.
+I am a final-year student, a dedicated individual passionate about Java coding and UI/UX design. Currently pursuing a Bachelor of Engineering in Computer Science and Engineering, my goal is to continuously enhance my technical skills for innovative organizations. My diverse academic background, which includes a lateral entry into BE in CSE, a Post Diploma in Plastic Mold Design, and a Diploma in Mechanical Engineering, showcases my adaptability and well-rounded skill set. Proficient in Java, UI/UX, and Blockchain, I have also excelled in graphic design, receiving awards and recognition for my work. With certifications in Enterprise Java with Spring Boot and Foundations of User Experience (UX) Design, I am well-prepared to collaborate effectively in diverse environments. I am enthusiastic about applying my skills and passion to make a meaningful impact in any dynamic work setting.
 
 </br>
 
