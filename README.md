@@ -11,7 +11,7 @@ Linktree - https://linktr.ee/iamkamalraj
 
 ### Glad to see you here! &nbsp; ![](https://linktr.ee/iamkamalraj)
 
-I am a dedicated individual passionate about consistent learning and coding in Java, with a focus on UI/UX design. Currently pursuing a Bachelor of Engineering in Computer Science and Engineering, my goal is to continuously enhance my technical skills for innovative organizations. My diverse academic background, which includes a lateral entry into BE in CSE, a Post Diploma in Plastic Mold Design, and a Diploma in Mechanical Engineering, showcases my adaptability and well-rounded skill set. Proficient in Java, UI/UX, and Blockchain, I have also excelled in graphic design, receiving awards and recognition for my work. With certifications in Enterprise Java with Spring Boot and Foundations of User Experience (UX) Design, I am well-prepared to collaborate effectively in diverse environments. I am enthusiastic about applying my skills and passion to make a meaningful impact in any dynamic work setting.
+A dedicated Java coder and UI/UX enthusiast with a versatile academic background in Computer Science and Engineering, Post Diploma in  Plastic Mold Design, and Diploma in Mechanical Engineering. Proficient in Java, UI/UX, and Blockchain, complemented by awards in graphic design. Currently learning Enterprise Java with Spring Boot and Foundations of UX Design, ready to excel in diverse collaborations. Eager to leverage my skills and passion for innovative impact in any dynamic work environment.
 
 </br>
 
