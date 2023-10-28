@@ -18,8 +18,9 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=dark&hide_border=false)
 
+![](https://github-profile-trophy.vercel.app/?username=iamkamalraj&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-</br>
+</br> 
 
 **Talking about Personal Stuffs:**
 
@@ -27,18 +28,14 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning "Enterprise Java with Spring Boot"
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; In addition to my technical skills, I have a keen interest in UI/UX,  Graphics design [Dribbble](https://dribbble.com/iamkamalraj)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: kamalrajp.cse@gmail.com
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Know about my experiences: https://iamkamalraj.github.io/
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Know about my experiences: https://iamkamalraj.github.io/experience.html
+
 
 
 </br>
-
-
-![](https://github-profile-trophy.vercel.app/?username=iamkamalraj&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
 
 **Profile Views:**
-</br>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{iamkamalraj}/count.svg)
 
