@@ -4,7 +4,7 @@
 A dedicated Java coder and UI/UX enthusiast with a versatile academic background in Computer Science and Engineering, Post Diploma in  Plastic Mold Design, and Diploma in Mechanical Engineering. Proficient in Java, UI/UX, and Blockchain, complemented by awards in graphic design. Currently learning Enterprise Java with Spring Boot and Foundations of UX Design, ready to excel in diverse collaborations. Eager to leverage my skills and passion for innovative impact in any dynamic work environment.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamkamalraj/)
-[![Kamal's Portfolio](https://custom-icon-badges.demolab.com/badge/Kamal's_Portfolio-%2312100E.svg?logo=kamalrajp&logoColor=orange)](https://iamkamalraj.github.io/)
+[![Kamal's Portfolio](https://custom-icon-badges.demolab.com/badge/Kamal's_Portfolio-grey.svg?logo=kamalrajp)](https://iamkamalraj.github.io/)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-4d6d17?style=for-square&logo=Linktree&logoColor=white)](https://linktr.ee/iamkamalraj)
 [![Dribbble Badge](https://img.shields.io/badge/-dribbble-fe3885?style=for-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamkamalraj)
 [![Behance](https://img.shields.io/badge/Behance-053eff?for-square&logo=Behance&logoColor=white)](https://www.behance.net/iamkamalraj)
