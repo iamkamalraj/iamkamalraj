@@ -1,3 +1,8 @@
+**Profile Views:**
+
+
+![Visitor Count](https://profile-counter.glitch.me/{iamkamalraj}/count.svg)
+
 <a href="https://www.linkedin.com/in/iamkamalraj">![Kamal Raj](https://github.com/iamkamalraj/iamkamalraj/blob/c596718ebbcb59e2f3ee3198e3344a651099d77c/LatestBanner.webp) 
 
 ### <samp>&gt; Hi there, I'm <a href="https://iamkamalraj.github.io/" target="_blank">Kamal Raj P</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
@@ -35,10 +40,7 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 
 </br>
 
-**Profile Views:**
 
-
-![Visitor Count](https://profile-counter.glitch.me/{iamkamalraj}/count.svg)
 
 <!--END_SECTION:waka-->
 
