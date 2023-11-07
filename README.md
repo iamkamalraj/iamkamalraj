@@ -13,7 +13,8 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-4d6d17?style=for-square&logo=Linktree&logoColor=white)](https://linktr.ee/iamkamalraj)
 [![Dribbble Badge](https://img.shields.io/badge/-dribbble-fe3885?style=for-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamkamalraj)
 [![Behance](https://img.shields.io/badge/Behance-053eff?for-square&logo=Behance&logoColor=white)](https://www.behance.net/iamkamalraj)
-[![Gmail](https://img.shields.io/badge/Gmail-c71610?for-square&logo=Gmail&logoColor=white)](mailto:kamalrajp.cse@gmail.com)
+[![Gmail](https://img.shields.io/badge/kamalrajp.cse@gmail.com-c71610?for-square&logo=Gmail&logoColor=white)](mailto:kamalrajp.cse@gmail.com)
+
 
 
 
