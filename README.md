@@ -23,9 +23,17 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 
 📈 **My GitHub Stats:**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=dark&hide_border=false)
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkamalraj&theme=dark&hide_border=false"/>
+   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
+</p>
+<br/> 
 
 ![](https://github-profile-trophy.vercel.app/?username=iamkamalraj&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 </br> 
 
