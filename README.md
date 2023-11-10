@@ -31,7 +31,15 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 </p>
 <br/> 
 
-![](https://github-profile-trophy.vercel.app/?username=iamkamalraj&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamkamalraj&theme=onestar&no-frame=false&no-bg=true&margin-w=4"/>
+  </a>
+</p>
+<br/>
+
+
+
 
 
 
