@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/iamkamalraj">![Kamal Raj](https://github.com/iamkamalraj/iamkamalraj/blob/c596718ebbcb59e2f3ee3198e3344a651099d77c/LatestBanner.webp) 
 
 ### <samp>&gt; Hi there, I'm <a href="https://iamkamalraj.github.io/" target="_blank">Kamal Raj </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-A dedicated Java coder and UI/UX enthusiast with a versatile academic background in Computer Science and Engineering, Post Diploma in  Plastic Mold Design, and Diploma in Mechanical Engineering. Proficient in Java, UI/UX, and Blockchain, complemented by awards in graphic design. Currently learning Enterprise Java with Spring Boot and Foundations of UX Design, ready to excel in diverse collaborations. Eager to leverage my skills and passion for innovative impact in any dynamic work environment.
+A dedicated Java coder and UI/UX enthusiast with a versatile academic background in Computer Science and Engineering, Post Diploma in  Plastic Mold Design, and Diploma in Mechanical Engineering. Proficient in Java, UI/UX, and Blockchain, complemented by awards in graphic design. Currently learning Enterprise Java with Spring Boot and Google UX Design Professional, ready to excel in diverse collaborations. Eager to leverage my skills and passion for innovative impact in any dynamic work environment.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamkamalraj/)
 [![Kamal's Portfolio](https://custom-icon-badges.demolab.com/badge/Kamal's_Portfolio-grey.svg?logo=kamalrajp)](https://iamkamalraj.github.io/)
