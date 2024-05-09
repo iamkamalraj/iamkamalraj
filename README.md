@@ -37,11 +37,7 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 <br/> 
 
 
-<p align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamkamalraj&theme=dark&border_radius=50&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  </a>
-</p>
-<br/>
+
 
 
 
