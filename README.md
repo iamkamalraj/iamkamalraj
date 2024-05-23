@@ -11,11 +11,12 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamkamalraj/)
 [![Kamal's Portfolio](https://custom-icon-badges.demolab.com/badge/Kamal's_Portfolio-grey.svg?logo=kamalrajp)](https://iamkamalraj.github.io/)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-4d6d17?style=for-square&logo=Linktree&logoColor=white)](https://linktr.ee/iamkamalraj)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FAD02C?style=for-square&logo=LeetCode&logoColor=black)](https://leetcode.com/iamkamalraj/)
-[![Dribbble Badge](https://img.shields.io/badge/-dribbble-fe3885?style=for-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamkamalraj)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/zvZVbK)
 [![Behance](https://img.shields.io/badge/Behance-053eff?for-square&logo=Behance&logoColor=white)](https://www.behance.net/iamkamalraj)
 [![Gmail](https://img.shields.io/badge/iam.kamalrajp@gmail.com-c71610?for-square&logo=Gmail&logoColor=white)](mailto:iam.kamalrajp@gmail.com)
+[![Dribbble Badge](https://img.shields.io/badge/-dribbble-fe3885?style=for-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamkamalraj)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FAD02C?style=for-square&logo=LeetCode&logoColor=black)](https://leetcode.com/iamkamalraj/)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/zvZVbK)
+
 
 
 
