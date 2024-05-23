@@ -15,7 +15,7 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 [![Dribbble Badge](https://img.shields.io/badge/-dribbble-fe3885?style=for-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamkamalraj)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/zvZVbK)
 [![Behance](https://img.shields.io/badge/Behance-053eff?for-square&logo=Behance&logoColor=white)](https://www.behance.net/iamkamalraj)
-[![Gmail](https://img.shields.io/badge/kamalrajp.cse@gmail.com-c71610?for-square&logo=Gmail&logoColor=white)](mailto:kamalrajp.cse@gmail.com)
+[![Gmail](https://img.shields.io/badge/iam.kamalrajp@gmail.com-c71610?for-square&logo=Gmail&logoColor=white)](mailto:iam.kamalrajp@gmail.com)
 
 
 
