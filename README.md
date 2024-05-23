@@ -49,9 +49,9 @@ A dedicated Java coder and UI/UX enthusiast with a versatile academic background
 **Talking about Personal Stuffs:**
 
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning "Enterprise Java with Spring Boot"
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning "Product Design" 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; In addition to my technical skills, I have a keen interest in UI/UX,  Graphics design [Dribbble](https://dribbble.com/iamkamalraj)
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: kamalrajp.cse@gmail.com
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: iam.kamalrajp@gmail.com
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Know about my experiences: https://iamkamalraj.github.io/experience.html
 
 
